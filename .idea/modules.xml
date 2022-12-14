@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/framework.iml" filepath="$PROJECT_DIR$/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osh-framework-parent/osh-framework-core/osh-framework-core.iml" filepath="$PROJECT_DIR$/osh-framework-parent/osh-framework-core/osh-framework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osh-framework-parent/osh-framework-util/osh-framework-util.iml" filepath="$PROJECT_DIR$/osh-framework-parent/osh-framework-util/osh-framework-util.iml" />
+    </modules>
+  </component>
+</project>
